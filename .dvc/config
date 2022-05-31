@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "localremote"']
+    url = ../../local_remote
+['remote "myremote"']
+    url = s3://udacity-chinmay-fastapi
